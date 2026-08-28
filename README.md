@@ -1,2 +1,2 @@
-# proyectoweb-AP para el encontrar lugar 
+# proyectoweb-APP para el encontrar lugar 
 en este repositorio llamado proyecto web se desarrollara una aplicación completa para la asignatura de programación y diseño de aplicaciones web 
